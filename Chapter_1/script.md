@@ -1,7 +1,7 @@
 # IN THIS CHAPTER
   - you learn binary search, your first search algorithm
   - big O notation
-  - techniques for solving problems.\
+  - techniques for solving problems.
 
 > [!NOTE]
  algorithms can be used to learn GPS tracking and AI algorithms that can play XO.
@@ -15,4 +15,12 @@ with binary search, you guess the middle number and eliminate the rest. It takes
 
 **Binary search does not return the element but the index. If no element was found, return None**
 
+
+**Big O notation is cruciual to measure PEOPLE's algorithms and algorithms in general.**
+
+**Big O notation counts the number of operations, NOT SECONDS**
+
+See the folding paper example. its gold.
+
+**the difference between run times increases as the list of items grows**
 
