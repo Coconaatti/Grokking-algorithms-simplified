@@ -37,3 +37,4 @@ random access : It is basically reading all of the data at once. *Arrays use tha
 > ***HOWEVER, if each item is big in an array, then a single lslot is valuable. AND In comparison storing addresses by lists is more efficient (and smol).***\
 > *SO, arrays are used more often than lists **except in specific use cases.***
 
+Selection sort is sorting from smallest to largest.
